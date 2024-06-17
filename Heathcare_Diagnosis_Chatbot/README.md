@@ -15,4 +15,4 @@ Then as a result of its prediction it gives the output and the description if ne
 ![chatbot_im](https://github.com/Keerthana203/Microsoft_Hackathon/assets/129830843/3e65965e-8a33-4c6a-8213-aaf1ae12157f)
 
 
-This is the working flow of thi Doctor-Aid Healthcare chatbot which serves as a robust bot by utilizing NLP and some Machine Learning algorithms
+This is the working flow of thi Doctor-Aid Healthcare chatbot which serves as a robust bot by utilizing NLP and some Machine Learning algorithms.
